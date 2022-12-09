@@ -1,0 +1,17 @@
+{
+    "short_name": "Sariab",
+    "name": "Sariab: Empowering minds.",
+    "description": "Distrubuted blogs hub",
+    "start_url": "?utm_source=homescreen",
+    "background_color": "#093637",
+    "display": "standalone",
+    "theme_color": "#093637",
+    "orientation": "any",
+    "icons": [
+      {
+        "src": "logo/icon192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ]
+  }
